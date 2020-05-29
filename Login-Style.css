@@ -37,12 +37,12 @@ body{
 	font-weight: 700;
 }
 .text p a{
-	color: #fff;
+	color: white;
 	font-weight: 700;
 }
 .form{
 	background: transparent;
-	color: #fff;
+	color: white;
 	box-sizing: border-box;
 	display: flex;
 	flex-direction: column;
@@ -56,6 +56,7 @@ input{
 	outline: none;
 	color: white;
 	font-family: 'Raleway',sans-serif;
+	font-size: 22px;
 }
 .username,.password{
 	border-bottom: 1px solid white;
